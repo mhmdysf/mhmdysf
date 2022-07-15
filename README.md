@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yusuf</h1>
 <h3 align="center">A newbie developer from Indonesia</h3>
 
-<h3 align="left">Currently Status: <a href="https://smpn3bontang.sch.id">Student</a></h3>
+<h3 align="left">Currently Status: <a href="https://smkn6-bpn.sch.id/">Student</a></h3>
 
 <h3 align="left">Connect with me:</h3><a href="https://exganius.rick-roll.xyz/discord.txt" title="Username#0000" target="_blank" rel="noreferrer"> <img src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" alt="discord" width="40" height="40"/></a></p>
 <p align="left">
