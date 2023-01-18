@@ -1,7 +1,7 @@
 <body>
 <br>
 <div align="center">
-<img src="profiles.png">
+<img src="profiles.png" href="#"/>
 </div>
 <br>
 
@@ -11,7 +11,7 @@
 > root@muhammadyusuf.me:~$ neofetch
 ```
 
-<img align="left" src="waifu.png" width="130px"/> 
+<img align="left" src="waifu.png" width="130px" href="#"/> 
 
 ```javascript
 root@muhammadyusuf.me
