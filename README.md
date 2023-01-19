@@ -1,7 +1,7 @@
 <body>
 <br>
 <div align="center">
-<img src="profiles.png" href="#"/>
+<img src="profile.png" href="#"/>
 </div>
 <br>
 
